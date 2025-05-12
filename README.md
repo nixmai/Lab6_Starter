@@ -1,4 +1,4 @@
 # Lab 6 - Starter
 
 
-Live Site [here](https://nixmai.github.io/Lab6_Starter/)!
+Lab 6 Live Github Pages Site [here](https://nixmai.github.io/Lab6_Starter/)
